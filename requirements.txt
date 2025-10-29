@@ -1,0 +1,4 @@
+oletools
+python-docx
+pillow
+pytesseract
